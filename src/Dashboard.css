@@ -1,0 +1,17 @@
+.dashboard {
+  min-height: 100vh;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background-color: #f4e9ba;
+  background-image: url("./feature.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.flexContainer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}

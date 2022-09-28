@@ -1,0 +1,18 @@
+.notes {
+  min-height: 100vh;
+  min-width: 100vw;
+  padding: 10px;
+  background-color: #f4e9ba;
+}
+.notesContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.notesButton {
+  margin-top: 10px;
+  bottom: 10px;
+  right: 10px;
+  position: absolute;
+}

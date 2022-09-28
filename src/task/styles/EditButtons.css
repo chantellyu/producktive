@@ -1,0 +1,32 @@
+.Edit-Buttons {
+  display: flex;
+}
+
+.Edit-Button {
+  cursor: pointer;
+  width: fit-content;
+  margin: 0 5px 10px;
+  padding: 6px 12px;
+  border-radius: 5px;
+  color: white;
+  outline: none;
+}
+
+.Edit-Button:hover {
+  opacity: 0.7;
+}
+
+.Edit-Button-Cancel {
+  cursor: pointer;
+  margin-top: 7px;
+
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  opacity: 0.5;
+  outline: none;
+}
+
+.Edit-Button-Cancel:hover {
+  opacity: 1;
+}

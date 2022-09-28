@@ -1,0 +1,36 @@
+.List {
+  background: #fff6e5;
+  flex-shrink: 0;
+  width: 300px;
+  height: fit-content;
+  margin-top: 10px;
+  margin-right: 25px;
+  border-radius: 10px;
+  padding-bottom: 10px;
+  padding-top: 5px;
+}
+
+.List-Title {
+  cursor: pointer;
+  overflow-wrap: break-word;
+  padding-top: 15px;
+  padding-bottom: 5px;
+  font-weight: bold;
+}
+
+.Toggle-Add-Card {
+  cursor: pointer;
+  padding: 10px;
+  color: #6b808c;
+  border-radius: 0 0 10px 10px;
+  display: flex;
+  align-items: center;
+}
+
+.Toggle-Add-Card:hover {
+  text-decoration: underline;
+}
+
+.Toggle-Add-Card ion-icon {
+  margin-right: 2px;
+}

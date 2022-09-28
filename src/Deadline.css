@@ -1,0 +1,8 @@
+.deadline {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f4e9ba;
+}

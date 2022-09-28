@@ -1,0 +1,11 @@
+.outer {
+  min-height: 100vh;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background-color: #f4e9ba;
+  background-image: url("./feature2.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}

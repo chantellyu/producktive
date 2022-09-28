@@ -1,0 +1,39 @@
+.home {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f4e9ba;
+  background-image: url("./feature2.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.home__container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: #dcdcdc;
+  padding: 30px;
+}
+
+.home__btn {
+  padding: 10px;
+  font-size: 18px;
+  margin-top: 10px;
+  border: none;
+  color: white;
+  background-color: black;
+}
+
+.dashboard div {
+  margin-top: 0px;
+}
+
+.box {
+  display: flex;
+  flex-direction: row;
+  margin: 1rem;
+  padding: 1rem;
+}

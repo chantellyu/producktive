@@ -1,0 +1,13 @@
+.editButtonCancel {
+  cursor: pointer;
+  margin-top: 7px;
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  opacity: 0.5;
+  outline: none;
+}
+
+.editButtonCancel:hover {
+  opacity: 1;
+}
